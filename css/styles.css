@@ -67,7 +67,7 @@ ul {list-style-type: none;
     }
     .connect-info:hover,
     .connect-info:focus {
-     color: #404bbf;
+        color: #404bbf;
     }
 .active-title {
     font-weight: 500;
@@ -106,11 +106,22 @@ ul {list-style-type: none;
     text-transform: capitalize;
     color: #2e2f42;
 }
+.effect-business {
+    background-color: #2e2f42;
+}
+.title-text {
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    text-align: center;
+    color: #fff;
+}
 .team-work {
     background-color: #fff;
 }
 .our-team {
-   background-color: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .lead-photo {
     width: 264px;
