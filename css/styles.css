@@ -130,6 +130,7 @@ color: #404bbf;
     font-size: 36px;
     letter-spacing: 0.02em;
     line-height: 1.11;
+    text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -141,6 +142,7 @@ color: #404bbf;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
+    text-align: center;
     color: #fff;
 }
 .team-work {
@@ -148,11 +150,6 @@ color: #404bbf;
 }
 .our-team {
     background-color: #f4f4fd;
-}
-.lead-photo {
-    width: 264px;
-    height: 260px;
-    background: url("path_to_image");
 }
 .lead-name {
     font-size: 20px;
@@ -167,11 +164,6 @@ color: #404bbf;
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
-}
-.portfolio-photo {
-    background: url("path_to_image");
-    width: 360px;
-    height: 300px;
 }
 .portfolio-work {
     font-weight: 400;
