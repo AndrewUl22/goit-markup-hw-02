@@ -1,7 +1,7 @@
 body {
 	font-family: "Roboto", sans-serif;
 	color: #434455;
-	background-color: #ffffff;
+	background-color: #fff;
 }
 a {
     text-decoration: none;
@@ -37,6 +37,7 @@ color: #2e2f42;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-align: center;
     color: #4d5ae5;
     text-decoration: none;
 }
@@ -49,13 +50,24 @@ color: #2e2f42;
 .studio {
     color: #2e2f42;
 }
-.navigation-list {
+.nav {
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2e2f42;
     text-decoration: none;
+}
+.nav:hover,
+.nav:focus {
+color: #404bbf;
+}  
+.navigation-list {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .navigation-list:hover,
 .navigation-list:focus {
@@ -68,6 +80,7 @@ color: #2e2f42;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-align: center;
     color: #2e2f42;
 }
 .info {
