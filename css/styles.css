@@ -40,6 +40,15 @@ color: #2e2f42;
     color: #4d5ae5;
     text-decoration: none;
 }
+.navigation-logo:hover {
+    color: #404bbf;
+}
+.navigation-logo:focus {
+    color: #404bbf;
+}
+.studio {
+    color: #2e2f42;
+}
 .navigation-list {
     font-weight: 500;
     font-size: 16px;
@@ -108,7 +117,6 @@ color: #2e2f42;
     font-size: 36px;
     letter-spacing: 0.02em;
     line-height: 1.11;
-    text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -120,7 +128,6 @@ color: #2e2f42;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
-    text-align: center;
     color: #fff;
 }
 .team-work {
